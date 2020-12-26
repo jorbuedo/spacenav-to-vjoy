@@ -1,0 +1,17 @@
+{
+  "name": "driver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-hid": "^2.1.1",
+    "vjoy": "^1.2.1"
+  }
+}
